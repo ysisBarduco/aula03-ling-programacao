@@ -1,4 +1,4 @@
-//Ler 5 números e mostrar apenas os números maiores que 10.
+//2. Ler 5 números e mostrar apenas os números maiores que 10.
 
 #include <stdio.h>
 
